@@ -1,0 +1,48 @@
+.calc {
+  width: 555px;
+  height: 640px;
+  background: rgb(7, 7, 7);
+  margin: 10px;
+  margin-left: 46px;
+  border-radius: 20px;
+  
+  
+}
+#screen {
+  width: 80%;
+  margin-left: 50px;
+  height: 108px;
+  margin-top: 50px;
+  font-size: 70px;
+  border-radius: 20px;
+  text-align: right;
+
+  pointer-events: none;
+}
+.row {
+  padding: 50px;
+}
+
+.btn {
+  width: 100px;
+  height: 70px;
+  font-size: 30px;
+  cursor: pointer;
+  background: rgb(232, 215, 215);
+  border-radius: 10px;
+}
+.btn:hover {
+ margin: 0 2px 2px 0;
+ border:5px solid rgb(207, 173, 173);
+
+}
+.btn-AC {
+  width: 204px;
+  height: 70px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #f5a442;
+}
+
+
+
